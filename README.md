@@ -43,3 +43,4 @@ Contributions are welcome! To ensure project integrity:
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
+--END--
